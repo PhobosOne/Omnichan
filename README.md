@@ -7,4 +7,6 @@ The app is free to use, the source code is currently not open source, but I plan
 
 Be wary of any APK you get from a source that isn't github, google play, or phobos.one/omnichan/ - I don't monitor those and can't make any promises about them
 
--Dev anon
+Here's the download link: https://github.com/PhobosOne/Omnichan/raw/master/app-pro-release.apk
+
+-Dev Anon
