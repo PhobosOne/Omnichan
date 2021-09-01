@@ -9,4 +9,6 @@ Be wary of any APK you get from a source that isn't github, google play, or phob
 
 Here's the download link: https://github.com/PhobosOne/Omnichan/raw/master/app-pro-release.apk
 
+Proof that I am the developer can be seen at: http://phobos.one/omnichan/reddit.html (for those wanting to make sure MartinVanBallin is my username there) and on http://phobos.one/omnichan/ (the site links here)
+
 -Dev Anon
